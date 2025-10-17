@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Client Management</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <h2>Client Management</h2>
+<form method="POST" action="/add_client">
+  <input name="company_name" placeholder="Company Name" required>
+  <input name="contact_person" placeholder="Contact Person" required>
+  <input name="contact_email" placeholder="Contact Email" required>
+  <button type="submit">Add Client</button>
+</form>
+
+<ul>
+  {% for client in clients %}
+    <li>{{ client.company_name }} - {{ client.contact_person }} ({{ client.contact_email }})</li>
+  {% endfor %}
+</ul>
+</body>
+</html>
