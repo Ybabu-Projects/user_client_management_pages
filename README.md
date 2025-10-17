@@ -20,4 +20,4 @@ A web-based application that provides secure and efficient **User Management** a
 - Update client information
 - Track client status (Active / Inactive)
 - Quick search and filtering
-![client management]("C:\Users\BABU\Pictures\Screenshots\Screenshot 2025-10-17 142101.png")
+![client management]("https://github.com/Ybabu-Projects/user_client_management_pages/blob/main/service-project/images/Screenshot%202025-10-17%20142101.png")
