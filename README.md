@@ -12,7 +12,7 @@ A web-based application that provides secure and efficient **User Management** a
 - Activate / Deactivate user accounts
 - Role-based access control (RBAC)
 - Search, sort, and filter options
-![User Management]("service-project/images/Screenshot 2025-10-17 142001.png")
+![User Management]("https://github.com/Ybabu-Projects/user_client_management_pages/blob/main/service-project/images/Screenshot%202025-10-17%20142001.png")
 
 ### ✅ Client Management
 - Add new clients with company & contact details
