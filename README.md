@@ -12,7 +12,7 @@ A web-based application that provides secure and efficient **User Management** a
 - Activate / Deactivate user accounts
 - Role-based access control (RBAC)
 - Search, sort, and filter options
-![User Management]("C:\Users\BABU\Pictures\Screenshots\Screenshot 2025-10-17 142001.png")
+![User Management]("service-project/images/Screenshot 2025-10-17 142001.png")
 
 ### ✅ Client Management
 - Add new clients with company & contact details
